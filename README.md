@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prissygee
+- 👋 Hi, I’m @dotun
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on 
